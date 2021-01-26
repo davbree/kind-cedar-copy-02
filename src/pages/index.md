@@ -15,7 +15,7 @@ sections:
         style: secondary
     align: left
     image: images/hero.svg
-    image_position: 
+    image_position: l
     has_background: true
     background:
       background_color: blue
