@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: "Contact Us:"
         url: /contact
-        style: second
+        style: secondary
     align: left
     image: images/hero.svg
     image_position: right
