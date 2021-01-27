@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big AAACC...!???..p[p[]]....0000kjjklk
+    title: 'This Is A Big AAACC...!???..p[p[]]....0000kjjklk...'
     subtitle: >-
       .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
       metus quis lorem males..
