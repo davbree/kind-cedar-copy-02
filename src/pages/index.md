@@ -5,7 +5,7 @@ sections:
     title: This Is A Big Hero Headline-
     subtitle: >-
       .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada   aaaa
+      metus quis lorem malesua
     actions:
       - label: Learn More;
         url: /features
