@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big AAACC
+    title: This Is A Big AAACC.
     subtitle: >-
       .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
       metus quis lorem males..
