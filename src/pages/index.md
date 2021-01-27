@@ -4,13 +4,13 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
-      .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
+      metus quis lorem malesuada luctus.
     actions:
       - label: Learn More;
         url: /features
         style: primary
-      - label: "Contact Us:"
+      - label: 'Contact Us:'
         url: /contact
         style: secondary
     align: left
