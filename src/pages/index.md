@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: AAAA...
+    title: AAA
     subtitle: >-
       .aaaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
       metus quis lorem males..
